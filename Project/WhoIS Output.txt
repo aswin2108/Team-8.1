@@ -1,0 +1,63 @@
+Domain Name: testfire.net
+Registry Domain ID: 8363973_DOMAIN_NET-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: www.cscprotectsbrands.com
+Updated Date: 2022-07-19T01:05:44Z
+Creation Date: 1999-07-23T09:52:32Z
+Registrar Registration Expiration Date: 2023-07-23T13:52:32Z
+Registrar: CSC CORPORATE DOMAINS, INC.
+Sponsoring Registrar IANA ID: 299
+Registrar Abuse Contact Email: email@cscglobal.com
+Registrar Abuse Contact Phone: +1.8887802723
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: Not Disclosed
+Registrant Organization: Not Disclosed
+Registrant Street: Not Disclosed
+Registrant City: Sunnyvale
+Registrant State/Province: CA
+Registrant Postal Code: 94085
+Registrant Country: US
+Registrant Phone: +Not Disclosed
+Registrant Phone Ext: 
+Registrant Fax: +Not Disclosed
+Registrant Fax Ext: 
+Registrant Email: Not Disclosed
+Registry Admin ID: 
+Admin Name: Not Disclosed
+Admin Organization: Not Disclosed
+Admin Street: Not Disclosed
+Admin City: Sunnyvale
+Admin State/Province: CA
+Admin Postal Code: 94085
+Admin Country: US
+Admin Phone: +Not Disclosed
+Admin Phone Ext: 
+Admin Fax: +Not Disclosed
+Admin Fax Ext: 
+Admin Email: Not Disclosed
+Registry Tech ID: 
+Tech Name: Not Disclosed
+Tech Organization: Not Disclosed
+Tech Street: Not Disclosed
+Tech City: Sunnyvale
+Tech State/Province: CA
+Tech Postal Code: 94085
+Tech Country: US
+Tech Phone: +Not Disclosed
+Tech Phone Ext: 
+Tech Fax: +Not Disclosed
+Tech Fax Ext: 
+Tech Email: Not Disclosed
+Name Server: asia3.akam.net
+Name Server: eur5.akam.net
+Name Server: usc2.akam.net
+Name Server: ns1-99.akam.net
+Name Server: usw2.akam.net
+Name Server: ns1-206.akam.net
+Name Server: usc3.akam.net
+Name Server: eur2.akam.net
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2022-07-19T01:05:44Z <<<
+

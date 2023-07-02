@@ -1,0 +1,46 @@
+# Nmap 7.91 scan initiated Fri Jun 30 15:02:21 2023 as: nmap -v -A -oN op.txt testfire.net
+Nmap scan report for testfire.net (65.61.137.117)
+Host is up (0.056s latency).
+Not shown: 995 filtered ports
+PORT     STATE  SERVICE    VERSION
+25/tcp   closed smtp
+80/tcp   open   http       Apache Tomcat/Coyote JSP engine 1.1
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+|_http-server-header: Apache-Coyote/1.1
+|_http-title: Altoro Mutual
+110/tcp  open   pop3?
+443/tcp  open   ssl/https?
+| ssl-cert: Subject: commonName=demo.testfire.net
+| Subject Alternative Name: DNS:demo.testfire.net, DNS:altoromutual.com
+| Issuer: commonName=Sectigo RSA Domain Validation Secure Server CA/organizationName=Sectigo Limited/stateOrProvinceName=Greater Manchester/countryName=GB
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2023-06-19T00:00:00
+| Not valid after:  2024-06-14T23:59:59
+| MD5:   11b3 600b c035 f15e c1e9 510b 3bd8 96c9
+|_SHA-1: 5dd2 a3e5 bacf 0a33 943a 36f4 e68e 60e1 bf28 7237
+|_ssl-date: 2023-06-30T14:06:31+00:00; +1s from scanner time.
+8080/tcp open   http       Apache Tomcat/Coyote JSP engine 1.1
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+|_http-open-proxy: Proxy might be redirecting requests
+|_http-server-header: Apache-Coyote/1.1
+|_http-title: Altoro Mutual
+Device type: general purpose
+Running: Linux 2.4.X|3.X
+OS CPE: cpe:/o:linux:linux_kernel:2.4.37 cpe:/o:linux:linux_kernel:3.2
+OS details: DD-WRT v24-sp2 (Linux 2.4.37), Linux 3.2
+Network Distance: 2 hops
+TCP Sequence Prediction: Difficulty=262 (Good luck!)
+IP ID Sequence Generation: Incremental
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT     ADDRESS
+1   0.06 ms 192.168.152.2
+2   0.05 ms 65.61.137.117
+
+Read data files from: /usr/bin/../share/nmap
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Jun 30 15:07:30 2023 -- 1 IP address (1 host up) scanned in 308.68 seconds
